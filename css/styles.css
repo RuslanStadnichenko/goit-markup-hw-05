@@ -524,7 +524,7 @@ margin-left: 20px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    margin-left: 24px;
+
   margin-bottom: 16px;
 }
 
@@ -760,7 +760,7 @@ fill: transparent;
 .input-privacy:checked + .text-privacy span {
   background-color: #404BBF;
   border: none;
-  fill: #ffffff;
+  fill:#F4F4FD;
 }
 .link-privacy{
   color: #4d5ae5;
