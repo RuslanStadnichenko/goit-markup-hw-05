@@ -485,9 +485,9 @@ max-width: 264px;
   margin-bottom: 16px;
 }
 
-.footer-flex{
-  display: flex;
-    gap: 16px;
+.footer-list-icon{
+display: flex;
+gap: 16px;
 }
 .icon-flex-team{
 width: 40px;
@@ -513,7 +513,7 @@ width: 40px;
 /* -----------FORMA FOOTER------------ */
 
 .cont-form-footer {
-margin-left: 20px;
+margin-left: auto;
 }
 
 .paragraph-form {
