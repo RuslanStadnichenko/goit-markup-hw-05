@@ -576,7 +576,11 @@ border-radius: 4px;
   fill: #ffffff;
 }
 
+.btn-form-footer:hover,
+.btn-form-footer:focus {
+  background-color: #404bbf;
 
+}
 
 
  /* < !-- -------------------Forma backdrop---------------- --> */
